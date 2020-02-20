@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<code>Server is up -> serving webapp.</code>
 </body>
 </html>
